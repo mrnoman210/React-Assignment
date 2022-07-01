@@ -1,0 +1,186 @@
+.container{
+     margin-left: 20px;
+     margin-right: 20px;
+}
+#trendingHeading{
+     font-size: 37px;
+     display: flex;
+     align-items: center;
+     margin-left: 43%; 
+}
+.Crausalimage{
+     width: 40%;
+     height: 25rem;
+     border-radius: 10px;
+}
+.displayinline{
+     display: inline;
+}
+.ForLinks{
+     text-decoration: none;
+     color: black;
+}
+/* .Carousal{
+     /* display: flex; */
+
+.carusalText{
+     margin-left: 4%;
+     /* display: flex; */
+     color: rgb(137, 136, 136);
+     /* margin-top: 30px; */
+}
+.carusalLinks{
+     font-weight: 800;
+}
+.displayflex{
+     display: flex;
+}
+.yourmost{
+     display: block;
+     font-weight: 900;
+     font-size: large;
+     top: 0;
+}
+.manpic{
+     border-radius: 50%;
+     height: 50px;
+     width: 50px;
+     margin-top: 25px;
+     margin-right: 5px;
+}
+.topintro{
+     top: 40px;
+}
+.manintro{
+display: flex;
+margin-top: 30px;
+}
+.manIntroDetials{
+     font-weight: 700;
+     display: flex;
+     margin-top: 30px;
+     margin-left: 3px;
+}
+.carusalDotes::before{
+     background: transparent;
+     color: transparent;
+     border: none;
+     display: inline;
+     margin: 2px;
+     height: 15px;
+}
+/* .carusalDotes::before{
+     content: "•";
+     width: 20px;
+     height: 20px;
+     font-family: "slick";
+     font-size: 6px;
+     line-height: 5px;
+     text-align: center;
+     color: black;
+     opacity: 0.25;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+} */
+.dataArea{
+     display: flex;
+     margin: 30px;
+}
+.dataareaimg{
+     height: 200px;
+     border-radius: 10px;
+     margin-top: 30px;
+     margin-right: 30px;
+     gap: 30px;
+     margin-bottom: 0 !important;
+     margin-left: 0px !important;
+}
+.data1{
+     width: 40%;
+     margin-left: 0 !important;
+}
+.dataalign{
+     /* margin-left: 30px; */
+     margin-top: 0;
+     margin-right: 25px;
+}
+.youcanDataArea{
+     font-weight: 700;
+     margin-top: 0;
+     /* bottom: 0; */
+}
+.dataareaText{
+     color: rgb(106, 105, 105);
+     font-size: 14;
+     top: 0;
+     margin-bottom: 1rem;
+}
+.MostPopularPosts{
+     font-size: 40px;
+    font-weight: 700;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+.afterPopularPosts{
+     height: 400px;
+     border-radius: 7px;
+     max-width: 100%;
+
+}
+.DataAfterPosts{
+     height: max-content;
+     width: 65%;
+     margin-left: auto;
+     margin-right: auto;
+
+}
+.sportsdata{
+     width: 50%;
+}
+.businessdata{
+     align-items: flex-start;
+     margin-right: 40px;
+     width: 50%;
+
+}
+.containerlarge{
+     margin-left: 20px;
+     margin-right: 20px;
+}
+.sideimgaes{
+     border-radius: 7px;
+     height: 100px;
+}
+.afterflex{
+     margin-left: 10px;
+}
+.ceofounder{
+     /* top: 0; */
+     margin: 0;
+     color: rgb(146, 144, 144);
+}
+.top{
+     margin-top: 0 !important;
+}
+.top30{
+     top: 30px !important;
+}
+.manIntroDetialsinlast{
+     margin: 0;
+     display: flex;
+     font-weight: 700;
+}
+.manpicinthelast{
+     margin: 0%;
+     border-radius: 50%;
+     height: 50px;
+     width: 50px;
+     margin-bottom: 80px;
+
+}
+.manintroinlast{
+     margin: 0;
+     display: flex;
+}
